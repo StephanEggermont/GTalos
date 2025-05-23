@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:03:34.633328+02:00"
+						"dateAndTimeString" : "2025-05-23T15:11:45.276943+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:18:35.358196+02:00"
+						"dateAndTimeString" : "2025-05-23T15:12:30.814801+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "nxvjHy7yDQCvzoufDtfNyA=="
+					"uidString" : "KWC1Ey/yDQCFDfzCDtfNyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[Talos](https://talos.dev) is the kubernetes operating system. "
+				"string" : "[Web page](https://blog.djnavarro.net/posts/2022-09-04_sudo-askpass/) source for this"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:06:06.015198+02:00"
+						"dateAndTimeString" : "2025-05-23T15:05:42.187071+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:07:17.589728+02:00"
+						"dateAndTimeString" : "2025-05-23T15:06:49.133134+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "qwDpKC7yDQCxTb8UDtfNyA=="
+					"uidString" : "RvAx/S7yDQC+BY9ODtfNyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Talos Linux is Linux designed for Kubernetes – secure, immutable, and minimal.\n    Supports cloud platforms, bare metal, and virtualization platforms\n    All system management is done via an API. No SSH, shell or console\n    Production ready: supports some of the largest Kubernetes clusters in the world\n    Open source project from the team at Sidero Labs"
+				"string" : "The script uses sudo. In GT that needs askpass support or a different way of providing the sudo credentials, otherwise the error is shown"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:21:24.089094+02:00"
+						"dateAndTimeString" : "2025-05-23T15:06:50.628381+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:21:52.340667+02:00"
+						"dateAndTimeString" : "2025-05-23T15:06:57.458116+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "ubChXy7yDQCz72PcDtfNyA=="
+					"uidString" : "j2MlAi/yDQCB16cWDtfNyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Getting started]]"
+				"string" : "sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper\nsudo: a password is required"
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:21:37.953292+02:00"
+						"dateAndTimeString" : "2025-05-23T15:06:30.052672+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:21:37.953292+02:00"
+						"dateAndTimeString" : "2025-05-23T15:07:12.900873+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "JEB1YC7yDQC0j1bqDtfNyA=="
+					"uidString" : "Dm7rAC/yDQCBNzNmDtfNyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "sudo apt-get install ssh-askpass ssh-askpass-gnome"
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:18:13.904444+02:00"
+						"dateAndTimeString" : "2025-05-23T15:07:14.471394+02:00"
 					}
 				},
 				"editEmail" : {
@@ -177,17 +177,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:18:21.883553+02:00"
+						"dateAndTimeString" : "2025-05-23T15:07:38.794819+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Y7ZLVC7yDQCzL8pVDtfNyA=="
+					"uidString" : "rjSRAy/yDQCB8EQdDtfNyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Source"
+				"string" : "then sudo vi /etc/sudo.conf and add a line"
 			},
 			{
 				"__type" : "textSnippet",
@@ -203,7 +203,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:18:22.730761+02:00"
+						"dateAndTimeString" : "2025-05-23T15:07:39.409258+02:00"
 					}
 				},
 				"editEmail" : {
@@ -214,91 +214,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:18:48.625332+02:00"
+						"dateAndTimeString" : "2025-05-23T15:08:20.666703+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "zGTSVC7yDQCzYNWPDtfNyA=="
+					"uidString" : "ProNBS/yDQCCzNxGDtfNyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The [source code](https://github.com/siderolabs/talos) for Talos itself."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:16:55.405686+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:17:01.867018+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "euedTy7yDQCx5ytODtfNyA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "###Discussions"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:17:32.795367+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-23T14:17:53.971923+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "SYEJUC7yDQCyMdEmDtfNyA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "A [forum](https://github.com/siderolabs/talos/discussions/) on features for Talos"
+				"string" : "Path askpass /usr/bin/ssh-askpass"
 			}
 		]
 	},
@@ -310,7 +236,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-23T14:03:34.612499+02:00"
+			"dateAndTimeString" : "2025-05-23T15:05:27.545793+02:00"
 		}
 	},
 	"editEmail" : {
@@ -321,15 +247,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-23T14:05:04.640788+02:00"
+			"dateAndTimeString" : "2025-05-23T15:05:27.545793+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "GTalos"
+		"title" : "Askpass distraction"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "bcc9e21f-2ef2-0d00-afcd-b7db0ed7cdc8"
+		"uuid" : "2ea731fd-2ef2-0d00-be04-6aff0ed7cdc8"
 	}
 }
