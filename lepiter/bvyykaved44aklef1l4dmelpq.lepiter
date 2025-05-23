@@ -1,0 +1,406 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:15:58.509148+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:16:47.058359+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "bGTNIi/yDQCILKC3DtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Create a cluster with all default values"
+			},
+			{
+				"__type" : "shellCommandSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:16:58.315009+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:17:10.754238+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "h/JdJi/yDQCI980/DtfNyA=="
+				},
+				"code" : "talosctl cluster create"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:27:41.329357+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:27:52.156908+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "lZGxTC/yDQCLDgn5DtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###.talos directory"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:26:02.418421+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:29:53.92413+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aU/MRi/yDQCJl5VLDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "This creates a .talos directory in my home directory, containing a clusters/talos-default which is empty and a config file that for context: talos-default creates  endpoint 127.0.0.1:40413, and ca, crt and key"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:29:56.421534+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:30:05.836096+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Buq+VC/yDQCO7OaSDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###.kube directory"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:31:56.22971+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:19.729078+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dQrjWy/yDQCPS8KsDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "containing config with certificates"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:40.668794+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:45.995964+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "3R2JXi/yDQCQCQOxDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###StdErr"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:46.917471+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:47.928582+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oXnoXi/yDQCQO+ugDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "validating CIDR and reserving IPs\ngenerating PKI and tokens\ncreating state directory in \"/home/stephan/.talos/clusters/talos-default\"\ndownloading ghcr.io/siderolabs/talos:v1.10.2\ncreating network talos-default\ncreating controlplane nodes\ncreating worker nodes\nwaiting for etcd to be healthy: ...\nwaiting for etcd to be healthy: 1 error occurred:\n    * 10.5.0.2: service \"etcd\" not in expected state \"Running\": current state [Preparing] Running pre state\nwaiting for etcd to be healthy: 1 error occurred:\n    * 10.5.0.2: service is not healthy: etcd\nwaiting for etcd to be healthy: OK\nwaiting for etcd members to be consistent across nodes: ...\nwaiting for etcd members to be consistent across nodes: OK\nwaiting for etcd members to be control plane nodes: ...\nwaiting for etcd members to be control plane nodes: OK\nwaiting for apid to be ready: ...\nwaiting for apid to be ready: OK\nwaiting for all nodes memory sizes: ...\nwaiting for all nodes memory sizes: OK\nwaiting for all nodes disk sizes: ...\nwaiting for all nodes disk sizes: OK\nwaiting for no diagnostics: ...\nwaiting for no diagnostics: OK\nwaiting for kubelet to be healthy: ...\nwaiting for kubelet to be healthy: OK\nwaiting for all nodes to finish boot sequence: ...\nwaiting for all nodes to finish boot sequence: OK\nwaiting for all k8s nodes to report: ...\nwaiting for all k8s nodes to report: Get \"https://127.0.0.1:41337/api/v1/nodes\": EOF\nwaiting for all k8s nodes to report: can't find expected node with IPs [\"10.5.0.2\"]\nwaiting for all k8s nodes to report: OK\nwaiting for all control plane static pods to be running: ...\nwaiting for all control plane static pods to be running: OK\nwaiting for all control plane components to be ready: ...\nwaiting for all control plane components to be ready: OK\nwaiting for all k8s nodes to report ready: ...\nwaiting for all k8s nodes to report ready: OK\nwaiting for kube-proxy to report ready: ...\nwaiting for kube-proxy to report ready: OK\nwaiting for coredns to report ready: ...\nwaiting for coredns to report ready: no ready pods found for namespace \"kube-system\" and label selector \"k8s-app=kube-dns\"\nwaiting for coredns to report ready: OK\nwaiting for all k8s nodes to report schedulable: ...\nwaiting for all k8s nodes to report schedulable: OK\n\nmerging kubeconfig into \"/home/stephan/.kube/config\""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:54.608426+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:33:17.388044+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "N9RdXy/yDQCQRRbjDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###StdOut"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:21.351017+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T15:32:27.130936+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Ol1iXS/yDQCP/65EDtfNyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "waiting for API\nbootstrapping cluster\nPROVISIONER           docker\nNAME                  talos-default\nNETWORK NAME          talos-default\nNETWORK CIDR          10.5.0.0/24\nNETWORK GATEWAY       10.5.0.1\nNETWORK MTU           1500\nKUBERNETES ENDPOINT   https://127.0.0.1:41337\n\nNODES:\n\nNAME                            TYPE           IP         CPU    RAM      DISK\n/talos-default-controlplane-1   controlplane   10.5.0.2   2.00   2.1 GB   -\n/talos-default-worker-1         worker         10.5.0.3   2.00   2.1 GB   -"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-23T15:15:58.488213+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-23T15:15:58.488213+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Create a local cluster"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "6e0fcd22-2ff2-0d00-882b-36050ed7cdc8"
+	}
+}
